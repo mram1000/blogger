@@ -1,4 +1,4 @@
 blogger
 =======
 
-blogger project
+blogger project - first commit
